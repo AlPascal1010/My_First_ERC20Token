@@ -16,7 +16,7 @@ Mu_First_ERC20Token is a basic ERC20 token implementation written in Solidity. T
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Author
-George PAscal
+George Pascal
 
 ## Etherscan
 [BullCoin On Etherscan](https://sepolia.etherscan.io/address/0x7efd92950a4aCA81540bf777fADF6df00451876c)
