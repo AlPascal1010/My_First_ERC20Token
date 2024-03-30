@@ -19,5 +19,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 George PAscal
 
 ## Etherscan
-(BullCoin On Etherscan)[https://sepolia.etherscan.io/address/0x7efd92950a4aCA81540bf777fADF6df00451876c]
+[BullCoin On Etherscan](https://sepolia.etherscan.io/address/0x7efd92950a4aCA81540bf777fADF6df00451876c)
 
